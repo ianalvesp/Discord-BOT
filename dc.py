@@ -11,7 +11,7 @@ intents.members = True  # Necessário para detectar mudanças no perfil
 # Criar o bot
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-pasta = r"D:\Codigos\Discord\dados"
+pasta = ".\dados"
 AVATAR_DB = os.path.join(pasta, "avatar_data.json")
 
 # Verifica se a pasta existe, se não, cria ela
