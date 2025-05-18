@@ -104,4 +104,4 @@ async def oi(ctx):
     await ctx.send("Olá! Como posso te ajudar? 😊")
 
 # Rodar o bot (Substitua "SEU_TOKEN_AQUI" pelo seu token)
-bot.run("MTM1NjQxMDIyMDM5NzcyODAwNg.GSE6-j.FsOF18qeEsEbK7v3q3yg40FMFr1rQjoy8CGVQ8")
+bot.run("")
